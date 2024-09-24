@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>recent.tab</name>
+   <tag></tag>
+   <elementGuidId>39371578-7692-4252-a1c7-491af88819b5</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <locator>com.solodroid.solomerce:id/nav_recent</locator>
+   <locatorCollection>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector()</value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>7da1c507-7c1f-4e15-9100-38633bbce4f4</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>NAME</key>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ID</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>

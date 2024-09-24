@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mengganti Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0b0083b-038f-44ca-aae1-f12a08c7bb4f</testCaseGuid>
+</TestCaseEntity>
